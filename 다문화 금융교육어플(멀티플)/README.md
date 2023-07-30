@@ -48,13 +48,7 @@
 
 ### ch3. 해결방안-어플 이용
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a65ef7d2-0c55-4f11-a671-4befa6b459b6/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4b59df6-7db4-472f-8ed2-4aa417336501/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/964888d9-8349-43e9-b3c5-ad7cba455a0f/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/988d5018-5090-4a23-a40c-1a10589356e3/Untitled.png)
+![멀티플](https://github.com/Gayeon6423/Project/assets/113704015/79d82731-d562-4243-92b9-ba8dcd2771b6)
 
 ### ch4. 기대효과
 
