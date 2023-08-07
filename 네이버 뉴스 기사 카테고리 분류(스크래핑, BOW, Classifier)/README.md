@@ -408,8 +408,6 @@ y_pred = rf.predict(X_test)
 print('accuracy_score : ',accuracy_score(y_test,y_pred))
 ```
 
-![네이버 뉴스 기사_3](https://github.com/Gayeon6423/Project/assets/113704015/3b40fd91-4737-4a46-ad6f-5b84c0539470)
-
 ```python
 #섹션별 비율
 bow = word_list_nan
@@ -420,6 +418,7 @@ vc = vc / all_len
 vc.index = pd.Series(vc.index).replace(sector_unmap)
 vc
 ```
+![네이버 뉴스 기사_3](https://github.com/Gayeon6423/Project/assets/113704015/3b40fd91-4737-4a46-ad6f-5b84c0539470)
 
 ## 7. 증빙자료
 
