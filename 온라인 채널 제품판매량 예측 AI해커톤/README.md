@@ -55,13 +55,13 @@
     - 2022-01-01 ~ 2023-04-04 : 실제 일별 판매량
     - 단, 제품이 동일하여도 판매되고 있는 고유 ID 별로 기재한 분류 정보가 상이할 수 있음, 즉 고유 ID가 다르다면, 제품이 같더라도 다른 판매 채널
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8ad533bb-3998-4a33-a175-66381eda6e91/1dbe8666-a1db-4592-b1a3-66949e318933/image.png)
+![온라인 채널_1](https://github.com/user-attachments/assets/10e1c924-d93f-49a4-9379-5e86714516df)
 
 - **submission.csv**
     - ID : 실제 판매되고 있는고유 ID
     - 2023-04-05~2023-04-25 : 예측한 일별 판매
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8ad533bb-3998-4a33-a175-66381eda6e91/0054f148-8793-44a3-820e-8913b9ad746f/image.png)
+![온라인 채널_2](https://github.com/user-attachments/assets/56e383d3-e37c-4b85-a238-d13f72418a9c)
 
 - **sales.csv - 메타(Meta) 정보**
     - ID : 실제 판매되고 있는 고유 ID
