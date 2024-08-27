@@ -73,4 +73,4 @@
 
 - 대회 링크
 
-https://www.kaggle.com/t/527b1bbc05f8494996380608afdce97d
+https://www.kaggle.com/competitions/sogang-nlp-rag
