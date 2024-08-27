@@ -130,7 +130,7 @@
 
 ### 7. 모델 평가
 ---
-
+![MQL](https://github.com/user-attachments/assets/b7b08899-d9f0-4ec0-82b7-59133c67f299)
 
 ## 6. 느낀점
 
