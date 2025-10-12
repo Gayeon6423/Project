@@ -225,23 +225,12 @@
 # 6. 느낀점
 
 ---
+강의를 통해 LLM Agent Workflow 설계 방법과 On-device LLM을 로컬 환경에서 실행하는 방법을 학습하고, 이를 실제 프로젝트에 적용해볼 수 있는 유익한 시간이었습니다. 
 
-# 7. 증빙 자료
+이번 프로젝트는 프론트엔드, 백엔드, 그리고 AI 엔지니어가 함께 협업한 팀 프로젝트로, 저는 AI 엔지니어 역할을 맡아 진행했습니다. 
 
----
+팀장님께서 프로젝트 주제를 정한 뒤 각자의 역량에 맞게 역할을 분담해 주셨고, 전체 진행 상황을 꾸준히 점검하며 프로젝트 매니저 역할을 수행해주신 덕분에 원활하게 프로젝트를 마무리할 수 있었습니다. 
 
-- 워크샵 사이트
+GitHub Organization을 통해 코드를 통합하고, Notion 테스크 보드를 활용해 Doc-to-Text, Text-to-Benchmark, Drive 등으로 세부 파트를 나누어 체계적으로 협업했습니다. 
 
-https://llamaacademy.kr/
-
-- 구축 데이터
-
-[https://huggingface.co/datasets/GAYOEN/DOC_RAG_PIT_BENCHMARK_FILTERED/viewer/default/train?views[]=train](https://huggingface.co/datasets/GAYOEN/DOC_RAG_PIT_BENCHMARK_FILTERED/viewer/default/train?views%5B%5D=train)
-
-- 소스 코드
-
-https://github.com/Doc-to-Benchmark
-
-- 발표 PPT
-
-[Doc-to-RAG-Benchmark 발표 PPT.pdf](attachment:32967204-08d4-481e-93f3-9d4eb58d53dd:Doc-to-RAG-Benchmark_발표_PPT.pdf)
+이 과정을 통해 효율적인 협업 방법과 프로젝트 관리 노하우를 습득할 수 있었고, 동시에 완성도 높은 서비스를 구축하는 경험을 얻을 수 있었습니다.
